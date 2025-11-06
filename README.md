@@ -9,10 +9,10 @@ The goal of this dashboard is to provide:
         High-risk customer/transaction insights
         Trends & fraud movement across time and geography
 
-##Datasource
-<a href="https://github.com/SibaniPJ/Credit-card-fraud-project/blob/main/credit_card_fraud_dataset.csv"></a>
+##Dataset
+<a href="https://github.com/SibaniPJ/Credit-card-fraud-project/blob/main/credit_card_fraud_dataset.csv">Dataset</a>
 
-## Data Source
+##Data Source
 Dataset includes the following features:
              Transaction ID, Date & Time
              Amount
@@ -21,7 +21,7 @@ Dataset includes the following features:
              Transaction Type
              Fraud Status (Fraud / Non-Fraud)
 
-##✨ Key Visualizations & Features
+##Key Visualizations & Features
 KPI Summary Cards: Total Transactions, Fraud Count, Fraud Rate, Total Fraud Amount
              Fraud vs Non-Fraud Comparison Chart
              Fraud Cases Over Time Line Graph
@@ -36,7 +36,7 @@ KPI Summary Cards: Total Transactions, Fraud Count, Fraud Rate, Total Fraud Amou
 ##Dashboard Preview
 <img src="cyber%20fraud.png" width="800">
 
-##🔍 Insights Derived
+##Insights Derived
 Fraud transactions usually occur in higher amounts compared to normal transactions.
 Certain locations have more fraud density indicating hotspot zones.
 Fraud shows noticeable spikes at specific times (time-based patterns).
